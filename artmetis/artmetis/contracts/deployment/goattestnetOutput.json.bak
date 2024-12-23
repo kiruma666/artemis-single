@@ -1,0 +1,60 @@
+{
+  "proxyadmin": {
+    "address": "0x6bc202B97d756650C21c7fB101D68a6967009DC1"
+  },
+  "goatConfig": {
+    "address": "0xAA6ddc0Cd5c5136dD90314750BA70020DED0eBb9",
+    "implAddress": "0x244bD2f39C3F05e141E34664d3fbaf5B98A9c934",
+    "txHash": "0xaf9f89943765a5ada3b062bbcd60abed614e474c2718978666f5069891502b0a"
+  },
+  "rewardPool": {
+    "address": "0xf180A21F6789a8904f01Aa80003C2b5106829eeD",
+    "implAddress": "0x39F469BD0FAf440Ec1A7c4D0caD7850E5d31c62F",
+    "txHash": "0xc63bf19b4bfc7a41b1566560f4f7a0ecb7027f66a5187b0fc8d7f0839ad43bba"
+  },
+  "withdrawalRecipient": {
+    "address": "0x6D2E0719B4D47045172b82f7998616997FBCA534",
+    "implAddress": "0xc5feAd8A987E9Fedaf022Cf30b5f34c1B734dD71",
+    "txHash": "0x413d65d0009acd5b9abe1bf114549b74cbaf0aaafef975f147430d7b8331cf58"
+  },
+  "artTokenBeaconProxy": {
+    "address": "0xBE4406FBB8fb8C5B3fe73Df0D81af1001B70A435",
+    "implAddress": "0x02a5de258228416b0A7B26846A15B80A7b56684D",
+    "txHash": "0x961ac2190067690005d70fe33906bfb7e58fadf607721b2441125e8e0d577bad"
+  },
+  "depositPoolBeaconProxy": {
+    "address": "0x89931A55d5576139C736F68ab56A3C06Ed123ea2",
+    "implAddress": "0xC5bE71bF93FdF771692E770001b9Ba697A3465d2",
+    "txHash": "0x1914a550fde2291841a717cb1b683e8b731d0716f80381b6a5bd47e516cc0cdf"
+  },
+  "withdrawalManagerBeaconProxy": {
+    "address": "0x6698BDDC9910D06dC5DC64d6E2e145355A22a522",
+    "implAddress": "0x2Da9229737977B58E7dBE853D622e9C171795754",
+    "txHash": "0x35ee198309840ddcc4e5f74603b6eaeb78de0fcff9bf627c47b86f2d8b497725"
+  },
+  "baseRewardPoolBeaconProxy": {
+    "address": "0x9ef47B9475f268c9c9fCd13876fDF923421F4B75",
+    "implAddress": "0xB1A04DCF0B6C6b4744ca0E0D3f1BD36A07983e5c",
+    "txHash": "0x4bd83ee2b1ac2de73ca1d66d3dd7768276f80e4f1989321c548fef3fa956365c"
+  },
+  "goatAssetManager": {
+    "address": "0x6EB0DC185f117A5DC7321c9465DeaF8E7fe535cD",
+    "implAddress": "0xC056775Fd8D2f4B5F0c911131f94ddf5AA69B257",
+    "txHash": "0xba2a456a2cab89f3a2f6115491347c8d2a44ccad5b86a9666cde0a990b28d3f0"
+  },
+  "sequencerPoolBeaconProxy": {
+    "address": "0x549EBF733850F2970F777Fb7c1a7B66C93CFd597",
+    "implAddress": "0xA5Be02401AF03F5Fd981804d9a3d83f8705b9EE2",
+    "txHash": "0x2066e4ab449054a399a4dd1afa52eeec9724b3ac784fad805d8a2e4cbf5ba45e"
+  },
+  "rewardDistributorBeaconProxy": {
+    "address": "0xfb1cf7f2cB17B28F3ee412B69C92c864d7cA0163",
+    "implAddress": "0x08B38B3757905748515164EA61594E3c675b935C",
+    "txHash": "0x8661eb487a7e25af45dfb75fa1e55c5105b7bb60dada8dd97685b42c27cc9608"
+  },
+  "sequencerPoolManager": {
+    "address": "0x53605CB398519A1186d170b4747e8EF4DDA7EE2C",
+    "implAddress": "0x9340aEa3871D7f5fC1bE41A1813e9914b2aEBEC0",
+    "txHash": "0x4e754afadfc9f346cb005de435a13c552ad6f758d378e4e54df7b7c07d3fa7f8"
+  }
+}

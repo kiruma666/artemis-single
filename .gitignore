@@ -1,0 +1,54 @@
+# Editor temp files
+*~
+
+# macOS Finder attribute files
+.DS_Store
+
+node_modules
+
+# output of TypeScript transpilation
+**/dist
+
+# output of web build
+**/build
+build.zip
+
+# api-extractor temp files
+**/temp
+
+/temp
+.env
+.eslintcache
+
+# Don't track NPM lockfile (we use Yarn)
+package-lock.json
+
+# .openzeppelin
+**/.openzeppelin/unknown-17.json
+**/.openzeppelin/unknown-31337.json
+
+# .openzeppelin
+**/localhostOutput.json
+
+# Buidler contract JSONs
+**/artifacts
+
+# Buidler compilation cache
+**/cache
+
+**/secrets.js
+
+# intellij
+.idea/
+
+# vscode
+.vscode/
+
+# building-lock
+.building-lock
+
+# rollup-plugin-visualizer output
+stats.html
+
+# logs
+yarn-error.log

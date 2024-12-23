@@ -1,0 +1,23 @@
+query GetPointSysAccountInfo($address: String) {
+    pointSysAccountInfo(address: $address) {    
+        address    
+        isRegistered
+        seedUserInviteCode
+        inviteCode
+        inviteCount
+        totalPointsEarned
+        availablePoints
+        isPointsAccelerationActive
+        todayHoldingTVL
+        todayHoldingAccelerationRatio
+        nextLevelHoldingTVL
+        nextLevelHoldingAccelerationRatio
+        activityCards {
+            type
+            accelerationRatio
+            startTime
+            endTime
+        }
+        isHighestLevel
+    }
+}

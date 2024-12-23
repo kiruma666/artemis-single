@@ -1,0 +1,49 @@
+export const {
+    NODE_ENV,
+    STAGE,
+    SESSION_SECRET,
+
+    // twitter
+    TWITTER_CLIENT_ID,
+    TWITTER_CLIENT_SECRET,
+    TWITTER_TARGET_USER_ID,
+
+    // telegram
+    TELE_TOKEN,
+    TELE_GROUP_ID,
+    TELE_GROUP_INVITE_LINK,
+    TELE_USER_PENDING_SECONDS = '3600', // default 1 hour
+    TELE_ID_ALERT,
+
+    // google
+    RECAPTCHA_KEY,
+    RECAPTCHA_SECRET,
+
+    // aws
+    AWS_REGION,
+    AWS_BUCKET,
+    AWS_ACCESS_KEY,
+    AWS_SECRET_ACCESS_KEY,
+    AWS_S3_ORIGIN,
+
+    // origins
+    WHITELIST_API_ORIGIN,
+    LOCK_API_ORIGIN,
+    WEBSITE_ORIGIN,
+    API_ORIGIN, // points api
+
+    // points
+    WHITELIST_MAX_AMOUNT,
+    WHITELIST_POINTS_RATIO,
+    WHITELIST_CONTRIBUTION_RATIO,
+    LOCK_POINTS_RATIO,
+
+    // api
+    API_TOP_RANKS_LIMIT,
+    API_LATEST_USERS_LIMIT,
+
+    // cron
+    CRON_SYNC_USER_LOCK_POINTS
+} = process.env;
+
+export const INTERNAL_API_PATH_PREFIX = '/internal';

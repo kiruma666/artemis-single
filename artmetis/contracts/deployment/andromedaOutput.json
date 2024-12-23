@@ -1,0 +1,87 @@
+{
+  "proxyadmin": {
+    "address": "0x479603DE0a8B6D2f4D4eaA1058Eea0d7Ac9E218d"
+  },
+  "amtConfig": {
+    "address": "0x4D32C8Ff2fACC771eC7Efc70d6A8468bC30C26bF",
+    "implAddress": "0x64627901dAdb46eD7f275fD4FC87d086cfF1e6E3",
+    "txHash": "0xea16776baeeaf5d5061b09abad26ea1ff3c7828ef12c7075501f67907e7ca5c5",
+    "verification": "https://explorer.metis.io/address/0x4D32C8Ff2fACC771eC7Efc70d6A8468bC30C26bF#code",
+    "implVerification": "https://explorer.metis.io/address/0x64627901dAdb46eD7f275fD4FC87d086cfF1e6E3#code"
+  },
+  "artMetis": {
+    "address": "0x2583A2538272f31e9A15dD12A432B8C96Ab4821d",
+    "implAddress": "0x920873E5b302A619C54c908aDFB77a1C4256A3B8",
+    "txHash": "0xab4a16450b003866b057c5d267572e91783e0ddec9dc2018d22256d8bec91ef3",
+    "verification": "https://explorer.metis.io/address/0x2583A2538272f31e9A15dD12A432B8C96Ab4821d#code",
+    "implVerification": "https://explorer.metis.io/address/0x920873E5b302A619C54c908aDFB77a1C4256A3B8#code"
+  },
+  "amtRewardPool": {
+    "address": "0x0Cf6ab3c169B0169E35aD58D350CbACdaF80E139",
+    "implAddress": "0xad29951cdA3dcd0E570e65A6Ee34aa455C53421C",
+    "txHash": "0x005ca3cfac9ebe0ba969b46db95047a1abb560a17e6f44a28f15138cd8e0655c",
+    "verification": "https://explorer.metis.io/address/0x0Cf6ab3c169B0169E35aD58D350CbACdaF80E139#code",
+    "implVerification": "https://explorer.metis.io/address/0xad29951cdA3dcd0E570e65A6Ee34aa455C53421C#code"
+  },
+  "amtDepositPool": {
+    "address": "0x96C4A48Abdf781e9c931cfA92EC0167Ba219ad8E",
+    "implAddress": "0x507fDbEbDB11c71E7c7565177d0942A6FD466cEd",
+    "txHash": "0x4d9bed4f9884d1d9ea826de9d0734b002a5ddaaef8757ad7697123728834bf49",
+    "verification": "https://explorer.metis.io/address/0x96C4A48Abdf781e9c931cfA92EC0167Ba219ad8E#code",
+    "implVerification": "https://explorer.metis.io/address/0x507fDbEbDB11c71E7c7565177d0942A6FD466cEd#code"
+  },
+  "chainlinkOracle": {
+    "address": "0x22Fc5A29bd3d6CCe19a06f844019fd506fCe4455",
+    "implAddress": "0x244bD2f39C3F05e141E34664d3fbaf5B98A9c934",
+    "txHash": "0xa1a55e82f75951bf49b9278d82b07ab463e5d1d96c441b6011eb3bfa59d7c098",
+    "verification": "https://explorer.metis.io/address/0x22Fc5A29bd3d6CCe19a06f844019fd506fCe4455#code",
+    "implVerification": "https://explorer.metis.io/address/0x244bD2f39C3F05e141E34664d3fbaf5B98A9c934#code"
+  },
+  "oMetis": {
+    "address": "0x70f61901658aAFB7aE57dA0C30695cE4417e72b9",
+    "implAddress": "0x39F469BD0FAf440Ec1A7c4D0caD7850E5d31c62F",
+    "txHash": "0x23bb812adbaa10cf115880da038e561c931a5e3c6e240d729f553f21c3880b5a",
+    "verification": "https://explorer.metis.io/address/0x70f61901658aAFB7aE57dA0C30695cE4417e72b9#code",
+    "implVerification": "https://explorer.metis.io/address/0x39F469BD0FAf440Ec1A7c4D0caD7850E5d31c62F#code"
+  },
+  "vester": {
+    "address": "0x357F55b46821A6C6e476CC32EBB2674cD125e849",
+    "implAddress": "0x1679FE95B11959c694Af8627e5360267e146723b",
+    "txHash": "0xfabdd49f9e8eb07ccc6f827c9c947049541f57dcd8b53249f0031f17b1126279",
+    "verification": "https://explorer.metis.io/address/0x357F55b46821A6C6e476CC32EBB2674cD125e849#code",
+    "implVerification": "https://explorer.metis.io/address/0x1679FE95B11959c694Af8627e5360267e146723b#code"
+  },
+  "merkleDistributorV2Beacon": {
+    "address": "0x2350Ea954113B1a1EeBAaCCC47f3a4985F709913",
+    "implAddress": "0x741620136cf08a782c1Df1Fc9E3cAA760Cc4Fecc",
+    "txHash": "0x743cfd937f076da6c682bfe69f02a6b0b804a50a2d28aaab4b4860fa383272d4",
+    "verification": "https://explorer.metis.io/address/0x2350Ea954113B1a1EeBAaCCC47f3a4985F709913#code",
+    "implVerification": "https://explorer.metis.io/address/0x741620136cf08a782c1Df1Fc9E3cAA760Cc4Fecc#code"
+  },
+  "merkleDistributorFactory": {
+    "address": "0x500D5E0D9d7337963ed6449E81CB52928184d3d6",
+    "implAddress": "0xB2D167EB1Fff17EbD727B0a21e7f5F50424264c8",
+    "txHash": "0x74adff9ca723d650bf0c3bb7d64c59bb60f3ea15f48acebbb7c2def7e5d9dca7",
+    "verification": "https://explorer.metis.io/address/0x500D5E0D9d7337963ed6449E81CB52928184d3d6#code",
+    "implVerification": "https://explorer.metis.io/address/0xB2D167EB1Fff17EbD727B0a21e7f5F50424264c8#code"
+  },
+  "amtWithdrawalManager": {
+    "address": "0x13E029B6631c0540126c2cdf1675316C971bEB94",
+    "implAddress": "0x755EF56db57EBdbe4D2163cf9d784eD2859C08D9",
+    "txHash": "0x2f28a8e62c0d38a0a10ef1bef1d7484135696385643eec848967e829866efd4c",
+    "verification": "https://explorer.metis.io/address/0x13E029B6631c0540126c2cdf1675316C971bEB94#code",
+    "implVerification": "https://explorer.metis.io/address/0x755EF56db57EBdbe4D2163cf9d784eD2859C08D9#code"
+  },
+  "timelockController": {
+    "address": "0x135c4de9238352681Efc42575EAFE47D50ee9a16",
+    "txHash": "0x358a8146070fed9587c5ccf3c0468c7c323a177c3a8b83a78616fdc4d1a30301",
+    "verification": "https://explorer.metis.io/address/0x135c4de9238352681Efc42575EAFE47D50ee9a16#code"
+  },
+  "sequencerNodeManager": {
+    "address": "0x324cd3f3a12c44B44269D775B2b75D5D06cCaea6",
+    "implAddress": "0xBb1f6cFF4D92073a7890b80c1245606C520f8569",
+    "txHash": "0x77c105ff1e923723d747daa910af563d403e4dd93dba73e0d5ec8e25210c8c5b",
+    "verification": "https://explorer.metis.io/address/0x324cd3f3a12c44B44269D775B2b75D5D06cCaea6#code",
+    "implVerification": "https://explorer.metis.io/address/0xBb1f6cFF4D92073a7890b80c1245606C520f8569#code"
+  }
+}

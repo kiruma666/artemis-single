@@ -1,0 +1,28 @@
+{
+    "name": "@shared/lib-contracts-v0.8",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "hardhat": "hardhat",
+        "prepare": "run-s prepare:*",
+        "prepare:compile": "hardhat compile",
+        "test": "hardhat test"
+    },
+    "dependencies": {
+        "ethers": "^5.0.32",
+        "solc": "^0.8.17"
+    },
+    "devDependencies": {
+        "@nomiclabs/hardhat-ethers": "^2.2.2",
+        "@nomiclabs/hardhat-etherscan": "^3.1.7",
+        "@nomiclabs/hardhat-truffle5": "^2.0.7",
+        "@nomiclabs/hardhat-web3": "^2.0.0",
+        "@openzeppelin/contracts": "4.7.3",
+        "@openzeppelin/contracts-upgradeable": "4.7.3",
+        "@openzeppelin/hardhat-upgrades": "^1.22.1",
+        "@openzeppelin/test-helpers": "^0.5.16",
+        "hardhat": "^2.16.2",
+        "npm-run-all": "^4.1.5",
+        "undici": "^5.22.0"
+    }
+}

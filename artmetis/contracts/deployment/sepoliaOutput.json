@@ -1,0 +1,20 @@
+{
+  "proxyadmin": {
+    "address": "0xFC623e91a3A638718cDA6dCC108BD60a9F8109E1"
+  },
+  "stakingPoolManager": {
+    "address": "0x6D2E0719B4D47045172b82f7998616997FBCA534",
+    "implAddress": "0x35034e6dEf07a83e7EF01A32B421faaF07286051",
+    "txHash": "0x18e3b24cabfdb9acdc46c35d5a9c3c25547c1a1800acc1dc2eea519983307f1d"
+  },
+  "stakingPool": {
+    "address": "0x0E0c52e29D7f8Bc216cA36156f7bE952b891B185",
+    "implAddress": "0x699A6Bf860e2eDe65B14056541fA73adE06DBcB0",
+    "txHash": "0xfbd9bf88085154b20a7631e4827b49f3b199e8cb4317f706a1653403a50e835a"
+  },
+  "stakingPoolBeacon": {
+    "address": "0x80E0125D20CDc68c26Ba85BC404bB6671066f2D7",
+    "implAddress": "0x699A6Bf860e2eDe65B14056541fA73adE06DBcB0",
+    "txHash": "0x5b6deb49f52df87b54d04a2a9bfa0b8741ad73175dcefc787a1c7ef19c325455"
+  }
+}

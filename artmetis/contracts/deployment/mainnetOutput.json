@@ -1,0 +1,26 @@
+{
+  "proxyadmin": {
+    "address": "0xc126455f93A03e7591324A1D0e217140C06e2Fa5"
+  },
+  "stakingPoolManager": {
+    "address": "0x014e8248D3B681d4ed703dE60885052Ff4321F5d",
+    "implAddress": "0x73d705f524E71DD050EcF474D704fE4E7e1F57Ac",
+    "txHash": "0xb6303b38a8e032507afadb8425cfc2bf10f565b18c35fd627df744eb9197108c",
+    "verification": "http://etherscan.io/address/0x014e8248D3B681d4ed703dE60885052Ff4321F5d#code",
+    "implVerification": "http://etherscan.io/address/0x73d705f524E71DD050EcF474D704fE4E7e1F57Ac#code"
+  },
+  "stakingPool": {
+    "address": "0x735Aad08c5eF7620b6422E85613f8335Ec07b573",
+    "implAddress": "0xD5d87a852ec8c62d1Bf8641FC81Ce0cAEd429Aae",
+    "txHash": "0xec1320bd47163b67df9b0238f590a9193ce61d0b02fe0e0c643ff04978e7fb71",
+    "verification": "http://etherscan.io/address/0x735Aad08c5eF7620b6422E85613f8335Ec07b573#code",
+    "implVerification": "http://etherscan.io/address/0xD5d87a852ec8c62d1Bf8641FC81Ce0cAEd429Aae#code"
+  },
+  "stakingPoolBeacon": {
+    "address": "0x40Bf7B842d4796ce347b05A2E346d6135D8D2adb",
+    "implAddress": "0xD5d87a852ec8c62d1Bf8641FC81Ce0cAEd429Aae",
+    "txHash": "0xfe3691314d61cfc1d09decef650e6b6fb85e55107244b1627903aded1e34eb1c",
+    "verification": "http://etherscan.io/address/0x40Bf7B842d4796ce347b05A2E346d6135D8D2adb#code",
+    "implVerification": "http://etherscan.io/address/0xD5d87a852ec8c62d1Bf8641FC81Ce0cAEd429Aae#code"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "@artmetis/frontend",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "prepare": "yarn workspace @artmetis/contracts prepare && node scripts/contract.mjs"
+  }
+}

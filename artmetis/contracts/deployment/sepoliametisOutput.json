@@ -1,0 +1,59 @@
+{
+  "proxyadmin": {
+    "address": "0x0eCbc957B4cc068A112CC862D1cC67E579a3ff10"
+  },
+  "amtConfig": {
+    "address": "0xcC17e7Af912eC857bCE49870CC090F3d6ce47f97",
+    "implAddress": "0xd0E84B3F8eF047D8eF46E59E24c9a542417a3d1a",
+    "txHash": "0x2be67c194cd9f55e34fabea75d69d1828f2c211557411885de8dbcee2254eaa6"
+  },
+  "artMetis": {
+    "address": "0xBE4406FBB8fb8C5B3fe73Df0D81af1001B70A435",
+    "implAddress": "0x02a5de258228416b0A7B26846A15B80A7b56684D",
+    "txHash": "0xae17957024d9f97137ccfe9829ef457f1342d694e85f158f1c1cc9d07d4a90fd"
+  },
+  "amtRewardPool": {
+    "address": "0x89931A55d5576139C736F68ab56A3C06Ed123ea2",
+    "implAddress": "0xC5bE71bF93FdF771692E770001b9Ba697A3465d2",
+    "txHash": "0xe8a9633f41c5d7f6f6188c7600b8d85fa34e1f55df31dd99d94bfe3f945b1ac1"
+  },
+  "amtDepositPool": {
+    "address": "0x6698BDDC9910D06dC5DC64d6E2e145355A22a522",
+    "implAddress": "0x8e0d16f5E3F18bd013DEBD425a00E5a231222de4",
+    "txHash": "0xe6091a169ccff298b33867e048e581c53825ca4db6dd0af91c1d6ca432d4966e"
+  },
+  "oMetis": {
+    "address": "0x9ef47B9475f268c9c9fCd13876fDF923421F4B75",
+    "implAddress": "0xB1A04DCF0B6C6b4744ca0E0D3f1BD36A07983e5c",
+    "txHash": "0xf64641579ae8f500fc9b28e87affa4f68315ec3d0539e1f03d728f3d594937e4"
+  },
+  "vester": {
+    "address": "0x6EB0DC185f117A5DC7321c9465DeaF8E7fe535cD",
+    "implAddress": "0x1DFaE9Bb45DF84c52C74eAAdBf771029f2eB761a",
+    "txHash": "0xbd03d7f0b440c34fee2fb24164b9121021d2d3b0dcc631bad8151a328f87a4f8"
+  },
+  "amtWithdrawalManager": {
+    "address": "0x24098b5b33DFAe6E453E0D1D6Fb786e1e8d12A8D",
+    "implAddress": "0x90C69143C1f46310dbBcE5A40e1073C9746cc24A",
+    "txHash": "0x3a06a95c57b5d4ec2b7361196b6716cf2f0b450106a950887f1425f0dacd4025"
+  },
+  "merkleDistributorV2Beacon": {
+    "address": "0x53Aabebd6528715c524cF61CdFf3b77Deb528920",
+    "implAddress": "0x7AfB78936906d61BcF4B88aDeDa6bfb24FA036A2",
+    "txHash": "0x34757cbae6172ca93d7315212e3ecc289da1becfd9eebf7b38751da9b6487384"
+  },
+  "timelockController": {
+    "address": "0x48347F77558eb40f3F7f9EdD7057E7265B536aCD",
+    "txHash": "0xdd44a5d0ab83ccb412596ea711edfa8a14f4c0fc4270e6fc6557f1d694d93f13"
+  },
+  "merkleDistributorFactory": {
+    "address": "0x7534f734EfE2B31c422623199bE92270F8078621",
+    "implAddress": "0x66439ddD5B98d8634116685039149B20D4459070",
+    "txHash": "0xb12df54d97ce54bfd13b8feee01bbfdb3a3d3135c29bff45dafd282de93d46e5"
+  },
+  "sequencerNodeManager": {
+    "address": "0x682A01236Bd44939a88D07d5F09d55aa5557A2E5",
+    "implAddress": "0xC355f627db83F82b356Bc4A56BF08e4746831fa0",
+    "txHash": "0xfe7a9b6486625f3611b0d50b93d5cad9c32cc69bb205be9b33e3fc62004d6e42"
+  }
+}

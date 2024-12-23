@@ -1,0 +1,10 @@
+{
+  "name": "@shared/use-contrtact",
+  "version": "1.0.0",
+  "exports": {
+    ".": {
+      "default":"./index.ts",
+      "node": "./node.ts"
+    }
+  }
+}

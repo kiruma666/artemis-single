@@ -1,0 +1,11 @@
+{
+  "name": "@shared/use-partial-state",
+  "version": "1.0.0",
+  "exports": {
+    ".": {
+      "default":"./index.ts",
+      "node": "./node.ts"
+    },
+    "./node": "./node.ts"
+  }
+}
